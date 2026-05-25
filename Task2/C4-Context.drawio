@@ -260,7 +260,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="to-be" id="kDl1C1p-6IhRj-9cunfJ">
-    <mxGraphModel dx="1524" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="143" dy="-88" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="YWPugOMdISIqnsoE3cl_-0" />
         <mxCell id="YWPugOMdISIqnsoE3cl_-1" parent="YWPugOMdISIqnsoE3cl_-0" />
@@ -476,7 +476,7 @@
             <mxGeometry height="120" width="240" x="3280" y="2230" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Name="AnalysService" c4Type="NestJS" c4Description="Микросервис, отвечающий за обработку анализов" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="zln1bZFxWYMlLZDgwEze-32">
+        <object placeholders="1" c4Name="AnalysisService" c4Type="NestJS" c4Description="Микросервис, отвечающий за обработку анализов" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="zln1bZFxWYMlLZDgwEze-32">
           <mxCell parent="YWPugOMdISIqnsoE3cl_-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1061B0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0D5091;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1">
             <mxGeometry height="120" width="240" x="3280" y="2790" as="geometry" />
           </mxCell>
